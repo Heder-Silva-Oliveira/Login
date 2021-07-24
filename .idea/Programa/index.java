@@ -1,6 +1,5 @@
 class Scratch {
     public static void main(String[] args) {
-        System.out.println("Ola mundo!");
-        System.out.println("Sou eu");
+        System.out.println("Criando Login");
     }
 }
